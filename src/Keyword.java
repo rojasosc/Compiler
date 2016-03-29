@@ -1,0 +1,4 @@
+
+public enum Keyword {
+	 INT, VOID, IF, WHILE, RETURN, CONTINUE, BREAK, SCANF, PRINTF, MAIN
+}
